@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragmentExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imText">+1</string>
+    <string name="fragRed">Fragmento Rojo</string>
+    <string name="fragAzul">Fragmento Azul</string>
+</resources>
